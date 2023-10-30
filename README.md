@@ -9,7 +9,7 @@
 
 - 📫 How to reach me of course instagram **🔗https://www.instagram.com/salmanrazzaqq/**
 
-- ⚡ Fun fact **I think I am world best software engineer**
+- ⚡ Fun fact **I think I am world's best software engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
