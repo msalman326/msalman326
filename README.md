@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Salman Razzaq</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Salman  Razzaq</h1>
 <h3 align="center">A Young Bad full Stack developer 🤪</h3>
 
 - 🔭 I’m currently working on **Laravel Projecxts**
