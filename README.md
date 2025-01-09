@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Salman  Razzaq</h1>
 <h3 align="center">A Young Bad full Stack developer 🤪</h3>
 
-- 🔭 I’m currently working on **Laravel Projecxts**
+- 🔭 I’m currently Studying Big Data(Masters)
+- 🌱 Try to learn **AI ML Data Science and many more**
 
-- 🌱 Try to learn **Ml AI Data Science Dsa any many more**
-
-- 👯 I’m looking to collaborate on **Laravel and React and other Related stack Projects**
+- 👯 I’m looking to collaborate on **Web || React || Backend || AI || ML || Google Cloud || Python|| JS || Laravel || Data ||  and other Related stack Projects**
 
 - 📫 How to reach me of course instagram **🔗https://www.instagram.com/salmanrazzaqq/**
 
